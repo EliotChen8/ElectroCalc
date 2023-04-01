@@ -40,7 +40,7 @@
                 android:scrollbars="vertical"
                 android:text="0"
                 android:textColor="#303030"
-                android:textSize="50sp" />
+                android:textSize="39sp" />
 
             <GridLayout
                 android:layout_width="match_parent"
